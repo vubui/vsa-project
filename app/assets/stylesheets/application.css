@@ -10,4 +10,14 @@
  *
  *= require_self
  *= require_tree .
+ *= require bootstrap.min
  */
+
+.verify-form {
+    width: 400px;
+    padding-left: 10px;
+}
+
+.navbar-brand {
+    color: #6f5499 !important;
+}
