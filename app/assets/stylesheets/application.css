@@ -14,7 +14,8 @@
  */
 
 .verify-form {
-    width: 300px;
+    width: 400px;
+    padding-left: 10px;
 }
 
 .navbar-brand {
